@@ -1,0 +1,23 @@
+{
+    "test" : "1234",
+    "test2" : "5678",
+    "interviews" : {
+        "generic" : [
+            "Links for Admissions Interviews:\n",
+            "Dr. Li: https://arizona.zoom.us/j/2089591130?pwd=SzlHZjNaVGQ3RGdiRUE1VTM4Ty9EQT09 (password is lizongming)\n",
+            "Dr. Vanderpool: https://arizona.zoom.us/j/88016856065 (password is 860214)\n",
+            "Dr. Toosizadeh: https://arizona.zoom.us/j/84397485936\n",
+            "Dr. Laksari: https://arizona.zoom.us/j/8492918706\n",
+            "Dr. Yoon: https://arizona.zoom.us/j/82069347891\n",
+            "Dr Gutruf: https://arizona.zoom.us/j/8679793307\n",
+            "Dr Chen: https://arizona.zoom.us/j/187397456"
+        ],
+        "li" : "Dr. Li Interview: https://arizona.zoom.us/j/2089591130?pwd=SzlHZjNaVGQ3RGdiRUE1VTM4Ty9EQT09 (password is lizongming)",
+        "vanderpool" : "Dr. Vanderpool Interview: https://arizona.zoom.us/j/88016856065 (password is 860214)",
+        "toosizadeh" : "Dr. Toosizadeh Interview: https://arizona.zoom.us/j/84397485936",
+        "laksari" : "Dr. Laksari Interview: https://arizona.zoom.us/j/8492918706",
+        "yoon" : "Dr. Yoon Interview: https://arizona.zoom.us/j/82069347891",
+        "gutruf" : "Dr Gutruf Interview: https://arizona.zoom.us/j/8679793307",
+        "chen" : "Dr Chen Interview: https://arizona.zoom.us/j/187397456"
+    }
+}
